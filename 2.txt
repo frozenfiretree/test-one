@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new 2.txt by user2
-=======
-start again
->>>>>>> 095325b2142f3e0053401cefa1184ef5ddc46e88
+0x0000
